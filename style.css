@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-style:oblique;
+}
+.cocacola
+{
+    color: red;
+    text-align: center;
+    font-size:40px;
+    font-family:italic;
+}
+.cocacola span{
+    background-color: black;
+}
+li{
+    list-style-type: style type square; ;
+}
